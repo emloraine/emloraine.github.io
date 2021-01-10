@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 body {
-    max-width: 650px;
     margin: auto;
 }
 header {
+    max-width: 650px;
     background-color: #3C674E;
     color: whitesmoke;
     border-radius: 5px;
@@ -20,6 +20,7 @@ main {
     max-width: 600px;
 }
 footer {
+    max-width: 650px;
     background-color: #3C674E;
     color: whitesmoke;
     text-align: center;
@@ -29,5 +30,5 @@ footer {
 .photoofme {
     float: right;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-top: -25px;
+    margin-top: -5em;
 }
