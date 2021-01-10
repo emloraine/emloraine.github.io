@@ -3,7 +3,6 @@
 body {
     max-width: 650px;
     margin: auto;
-    font-family: "Crimson Text", "Tahoma", sans-serif;
 }
 header {
     background-color: #3C674E;
@@ -11,6 +10,10 @@ header {
     border-radius: 5px;
     font-family: "Montserrat", "Tahoma", serif;
     padding: 10px;
+}
+main {
+    font-family: "Crimson Text", "Tahoma", sans-serif;
+    max-width: 600px;
 }
 footer {
     background-color: #3C674E;
