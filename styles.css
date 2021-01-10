@@ -8,14 +8,14 @@ header {
     background-color: #7A0035;
     color: whitesmoke;
     border-radius: 5px;
-    padding: 10px;
+    padding: 5px;
 }
 h1 {
     color: whitesmoke;
     font-family: "Crimson Text", "Tahoma", serif;
     padding: 10px;
     font-weight: normal;
-    font-size: large;
+    font-size: x-large;
 }
 h2 {
     text-decoration-line: underline;
@@ -37,7 +37,6 @@ footer {
 .photoofme {
     float: right;
     box-shadow: 0 4px 8px 0 gray, 0 6px 20px 0 gray;
-    margin-top: -7em;
-    margin-right: 7px;
+    padding: 1em;
     width: 20%;
 }
