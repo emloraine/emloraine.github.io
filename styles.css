@@ -11,6 +11,10 @@ header {
     font-family: "Montserrat", "Tahoma", serif;
     padding: 10px;
 }
+h2 {
+    text-decoration-line: underline;
+    text-decoration: 2px;
+}
 main {
     font-family: "Crimson Text", "Tahoma", sans-serif;
     max-width: 600px;
