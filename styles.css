@@ -10,9 +10,9 @@ header {
     border-radius: 5px;
     font-family: "Montserrat", "Tahoma", serif;
     padding: 10px;
-    margin-left: 6em;
 }
 h2 {
+    padding: 2em;
     text-decoration-line: underline;
     text-decoration: 2px;
 }
@@ -29,6 +29,7 @@ footer {
 }
 .photoofme {
     float: right;
-    box-shadow: 0 4px 8px 0 gray, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-top: -10em;
+    box-shadow: 0 4px 8px 0 gray, 0 6px 20px 0 gray;
+    margin-top: -7em;
+    padding: 2em;
 }
