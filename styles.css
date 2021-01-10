@@ -12,7 +12,7 @@ header {
 }
 h1 {
     color: whitesmoke;
-    font-family: "Montserrat", "Tahoma", serif;
+    font-family: "Crimson Text", "Tahoma", serif;
     padding: 10px;
 }
 h2 {
@@ -20,14 +20,14 @@ h2 {
     text-decoration: 2px;
 }
 main {
-    font-family: "Crimson Text", "Tahoma", sans-serif;
+    font-family: "Montserrat", "Tahoma", sans-serif;
     margin-left: 10px;
     margin-right: 10px;
 }
 footer {
     background-color: #3C674E;
     color: whitesmoke;
-    font-family: "Crimson Text", "Tahoma", sans-serif;
+    font-family: "Montserrat", "Tahoma", sans-serif;
     text-align: center;
     border-radius: 5px;
     padding: 3px;
