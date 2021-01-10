@@ -12,6 +12,7 @@ header {
     padding: 10px;
 }
 h2 {
+    margin-left: 15px;
     text-decoration-line: underline;
     text-decoration: 2px;
 }
